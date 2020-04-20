@@ -23,3 +23,6 @@ Doublei (더블아이)
 
 ## 6. 수상내역
 - 제29회 글로벌SW공모대전 은상(과학기술정보통신부 장관상) 수상
+
+##참고
+https://webnautes.tistory.com/1087
