@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="default_preview">//tab움식임 컬러
+        <item>#c8d9a7</item>
+        <item>#a0b860</item>
+        <item>#83a973</item>
+    </string-array>
+
+</resources>

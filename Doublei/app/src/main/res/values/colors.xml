@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#818e99</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="color_white">#FFFFFF</color>
+    <color name="color_blue">#303F9F</color>
+    <color name="color_black">#000000</color>
+    <color name="color_DarkGreen">#476a30</color>
+    <color name="color_Green">#86af49</color>
+    <color name="color_LightGreen">#b5db92</color>
+    <color name="color_DarkGray">#818e99</color>
+    <color name="color_Gray">#a0aab3</color>
+    <color name="color_LightGray">#b8bfc6</color>
+    <color name="lightBlue500">#03a9f4</color>
+    <color name="lightBlue400">#29b6f6</color>
+    <color name="lightBlue300">#4fc3f7</color>
+    <color name="default_lineColor">#0099cc</color>
+    <color name="default_chartBackgroundColor">#ffffff</color>
+    <color name="default_chartFillColor">#800099cc</color>
+    <color name="default_indicatorColor">#0099cc</color>
+    <color name="default_barColor">#0099cc</color>
+    <color name="default_barBackgroundColor">#190099cc</color>
+    <color name="default_labelColor">#000000</color>
+    <color name="default_markerColor">#0099cc</color>
+    <color name="default_separatorColor">#0099cc</color>
+    <color name="default_gridLinesColor">#bdbdbd</color>
+</resources>

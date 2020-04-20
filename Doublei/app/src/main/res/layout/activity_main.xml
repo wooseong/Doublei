@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="#EEEEEE"
+    android:orientation="vertical"
+    android:theme="@style/AppTheme">
+
+    <!--<android.support.v7.widget.Toolbar-->
+        <!--android:id="@+id/main_toolbar"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:background="#D2D2D2"-->
+        <!--android:elevation="10dp"-->
+        <!--android:minHeight="?attr/actionBarSize">-->
+
+        <!--<TextView-->
+            <!--android:id="@+id/titleText"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:text=""-->
+            <!--android:textAppearance="@style/Base.TextAppearance.Widget.AppCompat.Toolbar.Title" />-->
+    <!--</android.support.v7.widget.Toolbar>-->
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/vp_horizontal_ntb"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"/>
+
+    <com.example.doublei.Bar.NavigationTabBar
+        android:id="@+id/ntb_horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        app:ntb_scaled="true"
+        app:ntb_tinted="true"
+        app:ntb_title_mode="all"
+        app:ntb_titled="true"
+        app:ntb_swiped="true"/>
+
+
+</LinearLayout>
